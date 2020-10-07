@@ -43,7 +43,10 @@ This is a normal paragraph.
 
 ![Nicholas Cage](https://www.placecage.com/140/100)
 
-<!-- ![desktop Image](img/_DSC0407.jpg) -->
+
+<!-- Comment out something -->
+
+![desktop Image](img/_DSC0407.jpg)
 
 # Links
 
